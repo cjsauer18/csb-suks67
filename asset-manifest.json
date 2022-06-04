@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://cjsauer18.github.io/csb-suks67/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://cjsauer18.github.io/csb-suks67/static/js/main.7aecfe05.chunk.js",
+    "main.js.map": "https://cjsauer18.github.io/csb-suks67/static/js/main.7aecfe05.chunk.js.map",
+    "runtime-main.js": "https://cjsauer18.github.io/csb-suks67/static/js/runtime-main.29db717a.js",
+    "runtime-main.js.map": "https://cjsauer18.github.io/csb-suks67/static/js/runtime-main.29db717a.js.map",
+    "static/js/2.e6f41b8c.chunk.js": "https://cjsauer18.github.io/csb-suks67/static/js/2.e6f41b8c.chunk.js",
+    "static/js/2.e6f41b8c.chunk.js.map": "https://cjsauer18.github.io/csb-suks67/static/js/2.e6f41b8c.chunk.js.map",
+    "index.html": "https://cjsauer18.github.io/csb-suks67/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://cjsauer18.github.io/csb-suks67/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.e6f41b8c.chunk.js.LICENSE.txt": "https://cjsauer18.github.io/csb-suks67/static/js/2.e6f41b8c.chunk.js.LICENSE.txt",
+    "static/media/demochart.jpeg": "https://cjsauer18.github.io/csb-suks67/static/media/demochart.4b38a78d.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29db717a.js",
+    "static/js/2.e6f41b8c.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.7aecfe05.chunk.js"
+  ]
+}
